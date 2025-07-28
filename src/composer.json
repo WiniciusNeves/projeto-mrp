@@ -1,0 +1,11 @@
+{
+    "name": "winicius-neves/mrp-backend",
+    "description": "Backend para o sistema MRP.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
